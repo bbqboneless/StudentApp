@@ -1,0 +1,54 @@
+{
+    "Data":[
+        {
+            "name":"Tito Capotito",
+            "major":"Artificial Intelligence",
+            "birth_date":2000,
+            "city":"Jalisco",
+            "username":"student0",
+            "password":"student0",
+            "type":"student"
+        },
+        {
+            "name":"Juanito Bananas",
+            "major":"Bioelectronics",
+            "birth_date":2001,
+            "city":"Zacatecas",
+            "username":"student1",
+            "password":"student1",
+            "type":"student"
+        },
+        {
+            "name":"Penelope Cruz",
+            "birth_date":1977,
+            "city":"Chihuahua",
+            "username":"teacher0",
+            "password":"teacher0",
+            "type":"teacher"
+        },
+        {
+            "name":"Albert Einstein",
+            "birth_date":1981,
+            "city":"Germany",
+            "username":"teacher1",
+            "password":"teacher1",
+            "type":"teacher"
+        },
+        {
+            "name":"Steve Jobs",
+            "birth_date":1966,
+            "city":"California",
+            "username":"supervisor0",
+            "password":"supervisor0",
+            "type":"supervisor"
+        },
+        {
+            "name":"Mark Zuckerberg",
+            "birth_date":1990,
+            "city":"Ontario",
+            "username":"supervisor1",
+            "password":"supervisor1",
+            "type":"supervisor"
+        }
+    ]   
+}

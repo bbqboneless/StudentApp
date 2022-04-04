@@ -1,0 +1,29 @@
+{
+    "Data":[
+        {
+            "subject_id":1,
+            "name":"Data Bases",
+            "teacher":"Penelope Cruz"
+        },
+        {
+            "subject_id":2,
+            "name":"Advanced Math",
+            "teacher":"Albert Einstein"
+        },
+        {
+            "subject_id":3,
+            "name":"Design Patterns",
+            "teacher":"Katie Archibald"
+        },
+        {
+            "subject_id":4,
+            "name":"Microcontrollers",
+            "teacher":"Chad Le Clos"
+        },
+        {
+            "subject_id":5,
+            "name":"Person and Society",
+            "teacher":"Edward Pascal"
+        }
+    ]
+}
